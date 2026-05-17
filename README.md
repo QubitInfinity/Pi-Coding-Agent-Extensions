@@ -23,4 +23,4 @@ A safety layer for the `bash` tool that helps prevent accidental and malicious e
 
 See [`/.pi/extensions/README.agent-smith.md`](/.pi/extensions/README.agent-smith.md) for full documentation.
 
-See the official project at [Pi Coding Agent](https://github.com/earendil-works/pi-coding-agent) for more information on extension development.
+See the official project at [Pi Coding Agent](https://pi.dev/) for more information on extension development.
