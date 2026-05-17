@@ -127,7 +127,7 @@ This could be EXPENSIVE and DANGEROUS.
 
 ## Installation & Integration
 
-This extension is intended to be placed within your project at `./.pi/extensions/agent-smith.ts` so that and will be automatically loaded by the pi agent system.
+This extension is intended to be placed within your project at `./.pi/extensions/agent-smith.ts` so that it will be automatically loaded by the pi agent system.
 
 No additional configuration is required beyond selecting your preferred mode via the `/smith` command.
 
